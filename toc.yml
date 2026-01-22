@@ -40,6 +40,8 @@ project:
         - file: Content/PySim/3_recap.ipynb
         - file: Content/PySim/4_brownianmotion.ipynb
         - file: Content/PySim/5_druktemp.ipynb
+        - file: Content/Pysim/6_boltzmann.ipynb
+        
 
     - title: Labs
       file: Content/Labs/uitleg.md
